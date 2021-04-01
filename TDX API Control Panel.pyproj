@@ -1,0 +1,109 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>341ba775-d052-45de-89d7-8228aeeabcb0</ProjectGuid>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>Main.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>TDX API Control Panel</Name>
+    <RootNamespace>Law_School_Student</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="model\api\AdminAuth.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="data\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\LogHelpers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\StringHelpers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Main.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\api\APIMethods.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\api\Group.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\api\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\people\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\people\GroupProcessing.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\people\Person.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\people\PersonList.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="data\FileOperations.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="presentation\BaseForm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="presentation\FormStyles.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="presentation\GroupProcessForm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="presentation\MainForm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="presentation\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="data\" />
+    <Folder Include="helpers\" />
+    <Folder Include="model\" />
+    <Folder Include="model\api\" />
+    <Folder Include="model\people\" />
+    <Folder Include="images\" />
+    <Folder Include="presentation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\logo.png" />
+    <Content Include="images\Oregon.jpg" />
+    <Content Include="images\UO Picture.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
