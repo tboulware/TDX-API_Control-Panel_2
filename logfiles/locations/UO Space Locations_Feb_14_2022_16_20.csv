@@ -1,0 +1,354 @@
+ID,Banner ID,Building Number,Building Name,Address,Number Rooms,Number Assets,Number Tickets
+-1,B0001,001,Lawrence Hall,1190 Franklin Blvd.,0,0,0
+-1,B0002,002,Chiles (Earle A.) Business Center,925 E. 13th,0,0,0
+-1,B0003,003,Anstett Hall,965 E. 13th,0,0,0
+-1,B0004,004,Condon Hall,1321 Kincaid,0,0,0
+-1,B0005,005,University Hall,1201 Old Campus Lane,0,0,0
+-1,B0006,006,Chapman Hall,990 E. 13th,0,0,0
+-1,B0007,007,Lorry I. Lokey Education Building (A & B),1580 Kincaid; 1571 Alder,0,0,0
+-1,B0008,008,Prince Lucien Campbell Hall,1415 Kincaid,0,0,0
+-1,B0009,009,Friendly Hall,1161 E. 13th,0,0,0
+-1,B0010,010,HEDCO Education Bldg,1655 Alder,0,0,0
+-1,B0011,011,Gerlinger Hall,1468 University,0,0,0
+-1,B0014,014,University Health Services,1590 E. 13th Avenue,0,0,0
+-1,B0015,015,Volcanology,1255 E. 13th,0,0,0
+-1,B0016,016,Johnson Hall,1098 E. 13th,0,0,0
+-1,B0017,017,Allen (Eric W.) Hall,1020 University,0,0,0
+-1,B0018,018,Knight Library,1501 Kincaid,0,0,0
+-1,B0019,019,Fenton Hall,1021 E. 13th,0,0,0
+-1,B0020,020,McArthur Court,1601 University,0,0,0
+-1,B0021A,021A,Autzen Stadium East End Zone/Terrace,2780 Martin Luther King Jr. Blvd.,0,0,0
+-1,B0021B,021B,Autzen Stadium West End Zone,2700 Martin Luther King Jr. Blvd.,0,0,0
+-1,B0021C,021C,Autzen Stadium South Suite Bldg,2755 Leo Harris Parkway,0,0,0
+-1,B0021D,021D,Autzen Stadium North Suite Bldg,2750 Martin Luther King Jr. Blvd.,0,0,0
+-1,B0021,021,Autzen Stadium Main Concourse,2755 Leo Harris Parkway,0,0,0
+-1,B0022,022,Peterson Hall,935 E. 13th,0,0,0
+-1,B0023,023,Esslinger (Arthur A.) Hall,1525 University,0,0,0
+-1,B0024,024,Schnitzer (Jordan) Museum of Art,1430 Johnson Lane,0,0,0
+-1,B0025,025,Frohnmayer (Marabel B.) Music Building,961 E. 18th,0,0,0
+-1,B0026,026,Wilkinson House,1291 Franklin,0,0,0
+-1,B0027,027,Casanova (Len) Athletic Center,2727 Leo Harris Parkway,0,0,0
+-1,B0028A,028A,Cascade Annex West,1254 Franklin,0,0,0
+-1,B0028B,028B,Cascade Annex East,1264 Franklin,0,0,0
+-1,B0029,029,Clinical Services Bldg,901 E. 18th,0,0,0
+-1,B0030,030,McKenzie Hall,1101 Kincaid,0,0,0
+-1,B0031,031,Villard Hall,1109 Old Campus Lane,0,0,0
+-1,B0031A,031A,James F. Miller Theatre Complex,1109 Old Campus Lane,0,0,0
+-1,B0032,032,Central Power Station,1155 Franklin,0,0,0
+-1,B0033,033,Erb Memorial Union,1395 University,0,0,0
+-1,B0034,034,Lillis Hall,955 E. 13th,0,0,0
+-1,B0035,035,Pacific Hall,1025 University,0,0,0
+-1,B0036,036,Columbia Hall,1215 E. 13th,0,0,0
+-1,B0037,037,Onyx Br/Env Health,1318 Franklin,0,0,0
+-1,B0038,038,Klamath Hall,1370 Franklin,0,0,0
+-1,B0038A,038A,Allan Price Science Commons & Rsch Library,1344 Franklin,0,0,0
+-1,B0039,039,Computing Center,1225 Kincaid,0,0,0
+-1,B0040,040,Huestis Hall,1425 E. 13th,0,0,0
+-1,B0040A,040A,Lorry I Lokey Laboratories,1443 E. 13th,0,0,0
+-1,B0041,041,Lorry I. Lokey Education Building (C),877 E. 16th,0,0,0
+-1,B0042,042,Oregon Hall,1585 E. 13th,0,0,0
+-1,B0043,043,1900 Millrace Drive,1900 Millrace Drive,0,0,0
+-1,B0044,044,Deschutes Hall,1477 E. 13th,0,0,0
+-1,B0045,045,Streisinger (George) Hall,1390 Franklin,0,0,0
+-1,B0046,046,Willamette Hall,1371 E. 13th,0,0,0
+-1,B0047,047,Cascade Hall,1275 E. 13th,0,0,0
+-1,B0048,048,Education Annex,922 E. 16th,0,0,0
+-1,B0049,049,Museum of Natural & Cultural History,1680 E. 15th,0,0,0
+-1,B0050,050,Knight (Wllm. W.) Law Center,1515 Agate,0,0,0
+-1,B0051,051,Student Recreation Center,1320 E. 15th,0,0,0
+-1,B0052,052,Outdoor Program Barn,1225 E. 18th,0,0,0
+-1,B0062,062,Gerlinger Annex,1484 University,0,0,0
+-1,B0064,064,Living-Learning Center South,1455 E. 15th,0,0,0
+-1,B0065,065,Living-Learning Center North,1475 E. 15th,0,0,0
+-1,B0066,066,Ford Alumni Center,1720 E. 13th,0,0,0
+-1,B0067,067,Jaqua (John. E) Academic Ctr for Student Athletes,1615 E. 13th,0,0,0
+-1,B0068,068,Bean (Robert Sharp) Hall Complex,1695 E. 15th,0,0,0
+-1,B0070,070,Lewis (Robert & Beverly) Integrative Science Bldg,1440 Franklin,0,0,0
+-1,B0071,071,Hendricks Hall,1408 University,0,0,0
+-1,B0072,072,Straub (John) Memorial Hall,1451 Onyx,0,0,0
+-1,B0073,073,Earl (Virgil D.) Hall Complex,1323 E. 15th (core),0,0,0
+-1,B0074,074,Matthew Knight Arena,1776 E. 13th,0,0,0
+-1,B0075,075,Susan Campbell Hall,1431 Johnson Lane,0,0,0
+-1,B0076,076,Carson (Luella Clay) Hall,1320 Beech,0,0,0
+-1,B0079,079,Barnhart (H.P.) Hall,1000 Patterson,0,0,0
+-1,B0080,080,McMorran House,2315 McMorran Dr,0,0,0
+-1,B0081,081,Collier House,1170 E. 13th,0,0,0
+-1,B0082,082,UO Annex,876 E. 12th,0,0,0
+-1,B0083,083,Tree Tops,2237 Spring,0,0,0
+-1,B0084,084,Hamilton (Judge A. W.) Hall Complex West,1365 Agate,0,0,0
+-1,B0085,085,Hamilton (Judge A. W.) Hall Complex East,1365 Agate,0,0,0
+-1,B0086,086,Riley (Pat) Hall,650 E. 11th,0,0,0
+-1,B0087A,087A,LERC,1675 Agate,0,0,0
+-1,B0087B,087B,Military Science,1679 Agate,0,0,0
+-1,B0087C,087C,Military Science Annex,1679 Agate,0,0,0
+-1,B0089,089,UO Annex/Annex,814 E. 12th,0,0,0
+-1,B0090,090,Rainier Building,1244 Walnut,0,0,0
+-1,B0091,091,13th Avenue Garage,1355 Columbia Street,0,0,0
+-1,B0092,092,Berwick Hall,975 E 18th Ave,0,0,0
+-1,B0095,095,Millrace 1,1333 Franklin,0,0,0
+-1,B0096,096,Millrace 2,1335 Franklin,0,0,0
+-1,B0097,097,Millrace 3,1301 Franklin,0,0,0
+-1,B0098,098,Millrace Woodshop,1403 Franklin,0,0,0
+-1,B0099,099,Urban Farm Greenhouse,1409 Franklin,0,0,0
+-1,B0101,101,Zebrafish Internat'l Resource Ctr,1307 Franklin,0,0,0
+-1,B0103,103,Tykeson Hall,1030 E 13th Ave,0,0,0
+-1,B0705L,705,Thompson's University Center,720 E. 13th,0,0,0
+-1,B0107,107,MNCH Archaeological Rsch Lab,1323 Franklin,0,0,0
+-1,B0108,108,Quonset 108,1313 Franklin,0,0,0
+-1,B0109,109,Greenhouse Preparation,1387 Franklin,0,0,0
+-1,B0110,110,Old Greenhouse,1385 Franklin,0,0,0
+-1,B0111,111,Research Greenhouse,1389 Franklin,0,0,0
+-1,B0112,112,Paleoecology Research,1329 Franklin,0,0,0
+-1,B0115,115,MNCH Prep Lab,1311 Franklin,0,0,0
+-1,B0116,116,Archaeology Research,1325 Franklin,0,0,0
+-1,B0121,121,Fac Srvcs Lockshop,1309 Franklin,0,0,0
+-1,B0125A,125A,Fine Arts Studios Sculpture,1383 Franklin,0,0,0
+-1,B0125B,125B,Fine Arts Studios Ceramics,1383 Franklin,0,0,0
+-1,B0125C,125C,Fine Arts Studios Metalsmith/Jewelry,1383 Franklin,0,0,0
+-1,B0125D,125D,Fine Arts Studios Kiln,1383 Franklin,0,0,0
+-1,B0125F,125F,Fine Arts Studios Foundry,1383 Franklin,0,0,0
+-1,B0128,128,Fac Srvcs Exterior Storage Quonset 1,1213 Franklin,0,0,0
+-1,B0129,129,Fac Srvcs Paint Quonset,1209 Franklin,0,0,0
+-1,B0130,130,CPFM Warehouse/Shops,1205 Franklin,0,0,0
+-1,B0131,131,Fac Srvcs Miscellaneous Quonset,1207 Franklin,0,0,0
+-1,B0132,132,Fac Srvcs Storage Quonset,1211 Franklin,0,0,0
+-1,B0133,133,Fac Srvcs Electrical Storage Quonset,1215 Franklin,0,0,0
+-1,B0134,134,Fac Srvcs Recycling Quonset,1299 Franklin,0,0,0
+-1,B0135,135,Fac Srvcs Exterior Storage Quonset 2,1297 Franklin,0,0,0
+-1,B0136,136,CPFM Administration,1295 Franklin,0,0,0
+-1,B0137,137,CPS Chiller Plant,1149 Franklin,0,0,0
+-1,B0138,138,Outdoor Tennis Courts Facility,1421 E. 18th,0,0,0
+-1,B0139,139,Student Tennis Center,1635 University,0,0,0
+-1,B0145,145,East Campus Graduate Village West,1455 Moss,0,0,0
+-1,B0146,146,East Campus Graduate Village East,1420 Villard,0,0,0
+-1,B0147,147,Agate Hall,1787 Agate,0,0,0
+-1,B0148,148,Agate House,1795 Agate,0,0,0
+-1,B0149,149,CPS Switch House,1155 Franklin,0,0,0
+-1,B0150,150,Central Kitchen,1793 Columbia,0,0,0
+-1,B0151,151,HSG - Agate Apts 1450 E 18th,1450 E. 18th,0,0,0
+-1,B0152,152,HSG - Agate Apts 1460 E 18th,1460 E. 18th,0,0,0
+-1,B0153,153,HSG - Agate Apts 1480 E 18th,1480 E. 18th,0,0,0
+-1,B0154,154,HSG - Agate Apts 1470 E 18th,1470 E. 18th,0,0,0
+-1,B0155,155,HSG - Agate Apts Laundry,1470 E. 18th,0,0,0
+-1,B0156,156,Cell Tower Utility,1433 E 18th,0,0,0
+-1,B0158,158,Global Scholars Hall,1710 E. 15th (loading dock 1590 Moss),0,0,0
+-1,B0159,159,Kalapuya Ilihi Hall,1751 E 17th,0,0,0
+-1,B0160,160,HSG - 1743-1745 Moon Lee Ln,"1743, 1745 Moon Lee Lane",0,0,0
+-1,B0161,161,HSG - 1777-1779 Moon Lee Ln,"1777, 1779 Moon Lee Lane",0,0,0
+-1,B0162,162,HSG - 1760 Vill 1761 Moon,"1760 Villard, 1761 Moon Lee Lane",0,0,0
+-1,B0163,163,HSG - Moon Court Laundry,1783 Moon Lee Lane,0,0,0
+-1,B0164,164,Olum (Vivian) Child Dev Ctr Annex,1650 Columbia,0,0,0
+-1,B0165,165,Olum (Vivian) Child Dev Ctr,1650 Columbia,0,0,0
+-1,B0167,167,Many Nations Longhouse,1630 Columbia,0,0,0
+-1,B0168,168,Moss Street Children's Center,1685 Moss,0,0,0
+-1,B0180,180,Fac Srvcs Romania Warehouse,2020 Franklin,0,0,0
+-1,B0186L,186,Parking and Transportation,1401 Walnut Street,0,0,0
+-1,B0187L,187,UO Police Department East Station,2141 E. 15th,0,0,0
+-1,B0188L,188,UOPD East Station Annex A,2191 E. 15th,0,0,0
+-1,B0189L,189,UOPD East Station Annex B,2141 E. 15th,0,0,0
+-1,B0190,190,EC CARES Modular Classrooms,104 N. Van Buren,0,0,0
+-1,B0191,191,EC CARES Modular Westmoreland,1717 City View,0,0,0
+-1,B0192L,192,UOPD Storage,2141 E. 15th,0,0,0
+-1,B0193L,193,UOPD Bike Barn,2141 E. 15th,0,0,0
+-1,B0194L,194,West University Police Substation,791 E 13th Ave,0,0,0
+-1,B0200,200,Alder Building,818 E. 15th,0,0,0
+-1,B0207,207,"DeNorval Unthank, Jr. Hall",1451 Agate Street,0,0,0
+-1,B0214,214,Dexter Boathouse,"850 Shore Line Drive, Lowell, OR 97454",0,0,0
+-1,B0215,215,1691 Columbia Alley,1691 Columbia Alley,0,0,0
+-1,B0220,220,Autzen Stadium Events Bldg,2775 Leo Harris Parkway,0,0,0
+-1,B0221,221,Autzen Stadium TV Production Bldg,2765 Leo Harris Parkway,0,0,0
+-1,B0222,222,Autzen Stadium Operations Bldg,2785 Leo Harris Parkway,0,0,0
+-1,B0223,223,Autzen Stadium North Ticket Bldg,2760 Martin Luther King Jr. Blvd.,0,0,0
+-1,B0224,224,Autzen Stadium South Ticket Bldg,2745 Leo Harris Parkway,0,0,0
+-1,B0266,266,Sanders (Jane) Stadium Team Player Development,1677 University Street,0,0,0
+-1,B0227,227,P.K. Park,2825 Leo Harris Parkway,0,0,0
+-1,B0228,228,Hatfield-Dowlin Complex,2500 Martin Luther King Jr. Blvd.,0,0,0
+-1,B0229,229,Randy & Susie Pape' Complex (Soccer/Lacrosse Bldg),2845 Leo Harris Parkway,0,0,0
+-1,B0230,230,Tom Sargent Player Development Area,2825 Leo Harris Parkway,0,0,0
+-1,B0265,265,Moshofsky (Ed) Sports Center,2735 Leo Harris Parkway,0,0,0
+-1,B0267,267,Sanders (Jane) Stadium Visiting Team,1677 University Street,0,0,0
+-1,B0268,268,Sanders (Jane) Stadium Press Box,1677 University Street,0,0,0
+-1,B0269,269,Sanders (Jane) Stadium Public Facilities,1677 University Street,0,0,0
+-1,B0270,270,Sanders (Jane) Stadium Concessions and Bleachers,1677 University St.,0,0,0
+-1,B0280,280,Hayward Field Stadium,"1530 Agate Street, Eugene OR. 97403",0,0,0
+-1,B0300,300,Temp Surge Trailer E,1195 Franklin Blvd.,0,0,0
+-1,B0402,402,Knight Campus Building 1,1505 Franklin Blvd. Eugene,0,0,0
+-1,B0450,450,Millrace Drive Garage,1625 Millrace Dr,0,0,0
+-1,B0503,503,HSG - 1528 Villard + shed,1528 Villard,0,0,0
+-1,B0509,509,HSG - 1741 Moss,1741 Moss,0,0,0
+-1,B0511,511,HSG - 1727 Columbia + det. storage,1727 Columbia,0,0,0
+-1,B0515,515,HSG - 1572 Villard,1572 Villard,0,0,0
+-1,B0516,516,HSG - 1848 Villard,1848 Villard,0,0,0
+-1,B0517,517,Fac Srvcs Mower Storage,1658 Columbia Alley,0,0,0
+-1,B0521,521,Ombuds Program,1685 E. 17th,0,0,0
+-1,B0524,524,HSG - 1798 Columbia,1798 Columbia,0,0,0
+-1,B0525,525,HSG - 1736 A/B Moss,"1736 A, B Moss",0,0,0
+-1,B0529,529,HSG - 1838 Moss,1838 Moss,0,0,0
+-1,B0530,530,HSG - 1802 Moss (inactive),1802 Moss,0,0,0
+-1,B0531,531,HSG - 1857 E 17th,1857 E. 17th,0,0,0
+-1,B0532,532,HSG - 1823 E 15th + detached garage,1823 E. 15th,0,0,0
+-1,B0534,534,Green HSE - MNCH Storage,1533 Moss,0,0,0
+-1,B0536,536,Oregon Law Clinic Building,1695 E. 17th,0,0,0
+-1,B0539,539,HSG - 1542 Villard,1542 Villard,0,0,0
+-1,B0542,542,HSG - 1560 Villard,1560 Villard,0,0,0
+-1,B0544,544,HSG - 1678 Villard + detached garage,1678 Villard,0,0,0
+-1,B0547,547,Oregon State Museum of Anthropology,1724 Moss,0,0,0
+-1,B0548,548,HSG - 1602 Villard,1602 Villard,0,0,0
+-1,B0549,549,HSG - 1734 Villard,1734 Villard,0,0,0
+-1,B0551,551,HSG - 1630 Villard,1630 Villard,0,0,0
+-1,B0553,553,HSG - 1728 Columbia,1728 Columbia,0,0,0
+-1,B0554,554,HSG - 1491 Moss,1491 Moss,0,0,0
+-1,B0556,556,HSG - 1598 Villard + garage,1598 Villard,0,0,0
+-1,B0557,557,HSG - 1822 Moss + two det. garages,1822 Moss,0,0,0
+-1,B0559,559,HSG - 1787 Moss,1787 Moss,0,0,0
+-1,B0560,560,HSG - 1804 Columbia + det. garage,1804 Columbia,0,0,0
+-1,B0561,561,1801 Moss,1801 Moss,0,0,0
+-1,B0562A,562A,1739 Moss Alley,1739 Moss Alley,0,0,0
+-1,B0562B,562B,HSG - 1739B Moss Alley,1739 Moss Alley,0,0,0
+-1,B0563,563,HSG - 1498 Villard,1498 Villard,0,0,0
+-1,B0565,565,HSG - 1823 Moss,1823 Moss,0,0,0
+-1,B0568,568,1479 Moss,1479 Moss,0,0,0
+-1,B0569,569,HSG - 1786 Columbia,1786 Columbia,0,0,0
+-1,B0571,571,HSG - 1618 Villard,1618 Villard,0,0,0
+-1,B0572,572,Black Cultural Center,"1870 E. 15th, Eugene",0,0,0
+-1,B0573,573,HSG - 1790 Moss + detached garage,1790 Moss,0,0,0
+-1,B0574,574,HSG - 1470 Villard,1470 Villard,0,0,0
+-1,B0575,575,HSG - 1480 Villard + att. garage,1480 Villard,0,0,0
+-1,B0576,576,HSG - 1584 Villard,1584 Villard,0,0,0
+-1,B0577,577,HSG - 1800 Villard,1800 Villard,0,0,0
+-1,B0578,578,HSG - 1858 E 17th (inactive),1858 E. 17th,0,0,0
+-1,B0583,583,HSG - 1838 Villard,1838 Villard,0,0,0
+-1,B0586,586,HSG - 1744 E 17th,1744 E. 17th,0,0,0
+-1,B0587,587,HSG - 1510 Villard,1510 Villard,0,0,0
+-1,B0588,588,HSG - 1795 Moss,1795 Moss,0,0,0
+-1,B0589,589,HSG - 1848 Moss,1848 Moss,0,0,0
+-1,B0590,590,HSG - 1758 E 17th,1758 E. 17th,0,0,0
+-1,B0591,591,HSG - 1764 E 17th,1764 E. 17th,0,0,0
+-1,B0593,593,Fac Srvcs Exterior Team,1670 Columbia,0,0,0
+-1,B0594,594,HSG - 1617 Moss,1617 Moss,0,0,0
+-1,B0596,596,HSG - 1844 Moon Lee Ln + detached garage,1844 Moon Lee Lane,0,0,0
+-1,B0598,598,HSG - 1737 Columbia,1737 Columbia,0,0,0
+-1,B0601,601,HSG - 1660 E 17th,1660 E. 17th,0,0,0
+-1,B0604,604,HSG - 1692-1694 Villard,1692-1694 Villard,0,0,0
+-1,B0607,607,Moss Hse - MNCH Research,1511 Moss,0,0,0
+-1,B0608,608,Brown Hse - MNCH Storage,1513 Moss,0,0,0
+-1,B0609,609,HSG - 1778 Villard + det'd garage Inactive,1778 Villard,0,0,0
+-1,B0610,610,HSG - 1709 Moss + attached garage,1709 Moss,0,0,0
+-1,B0611,611,HSG - 1704-1706 E 17th + shed,"1704, 1706 E. 17th",0,0,0
+-1,B0613,613,HART Center,1859 E. 15th,0,0,0
+-1,B0614,614,HSG - 1830 E 17th + attached garage (inactive),1830 E. 17th,0,0,0
+-1,B0616,616,Fac Srvcs Recycle Storage,1495 Villard Alley,0,0,0
+-1,B0617,617,HSG - 1746 Villard,1746 Villard,0,0,0
+-1,B0618,618,HSG - 1708 Villard,1708 Villard,0,0,0
+-1,B0619,619,1629 Moss - NILI,1629 Moss,0,0,0
+-1,B0620,620,HSG - 1841 E 15TH + attached garage,1841 E. 15th,0,0,0
+-1,B0623,623,HSG - 1763 Moss,1763 Moss,0,0,0
+-1,B0624,624,HSG - 1792 Moon Lee Ln,1792 Moon Lee Lane,0,0,0
+-1,B0625,625,HSG - 1735 Moon Lee Ln,1735 Moon Lee Lane,0,0,0
+-1,B0627,627,HSG - 1748 Columbia,1748 Columbia,0,0,0
+-1,B0630,630,HSG - 1800 Columbia,1800 Columbia,0,0,0
+-1,B0632,632,HSG - 1873 E 15th,1873 E. 15th,0,0,0
+-1,B0651,651,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0652,652,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0653,653,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0654,654,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0655,655,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0656,656,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0657,657,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0658,658,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0659,659,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0660,660,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0661,661,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0662,662,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0663,663,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0664,664,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0665,665,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0666,666,Spencer View Fam Hsg Commons,2250 Patterson,0,0,0
+-1,B0667,667,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0668,668,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0669,669,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0670,670,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0671,671,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0672,672,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0673,673,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0674,674,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0675,675,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0676,676,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0677,677,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0678,678,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0679,679,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0680,680,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0681,681,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0682,682,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0683,683,Spencer View Family Housing,2250 Patterson,0,0,0
+-1,B0700,700,Fleet Services Building,"3233 Franklin, Spfld, 97477",0,0,0
+-1,B0702,702,Baker Downtown Ctr,975 High; 318/328 E Broadway,0,0,0
+-1,B0707L,707,KWAX,75 Centennial Loop,0,0,0
+-1,B0721L,721,PeaceHealth North Building,677 E. 12th,0,0,0
+-1,B0726L,726,1715 Franklin,1715 Franklin Blvd.,0,0,0
+-1,B0727L,727,Atrium Building Eugene,99 W. 10th,0,0,0
+-1,B0730,730,942 Olive,"942 Olive Street, Eugene, OR 97401",0,0,0
+-1,B0732,732,EC Cares Building,"1500 W 12th Ave, Eugene OR 97402",0,0,0
+-1,B0733,733,510 Oak St,510 Oak St.,0,0,0
+-1,B0750L,750,1600 Millrace Dr,1600 Millrace Drive,0,0,0
+-1,B0801,801,Pine Mtn Observ 24-inch,"Bend, Oregon",0,0,0
+-1,B0802,802,Pine Mtn Residence Hall,"Bend, Oregon",0,0,0
+-1,B0804,804,Pine Mtn Observ 15-inch,"Bend, Oregon",0,0,0
+-1,B0805,805,Pine Mtn Shop,"Bend, Oregon",0,0,0
+-1,B0806,806,Pine Mtn Observ 32-inch,"Bend, Oregon",0,0,0
+-1,B0807,807,Pine Mtn Operations Center,"Bend, Oregon",0,0,0
+-1,B0814L,814,White Stag Block,"70 NW Couch St., Portland OR 97209",0,0,0
+-1,B0815,815,Shire Dugout,"28852 State HWY 14, Washougal WA, 98671",0,0,0
+-1,B0817,817,Cottrell (George) House,"1060 SW Skyline, Ptld, OR 97221-1544",0,0,0
+-1,B0818,818,Watzek (Aubrey) House,"1061 SW Skyline Blvd, Ptld 97221-1544",0,0,0
+-1,B0821L,821,Burnside Bridge Retail,"5 NW 1st Avenue, Portland 97209",0,0,0
+-1,B0822L,822,38 NW Davis,"38 NW Davis St., Portland OR 97209",0,0,0
+-1,B0875L,875,EC CARES - West Lane Program,"2325 Oak Street, Florence OR 97439",0,0,0
+-1,B0883L,883,EC CARES - Fern Ridge MS Rm 19,"88831 Territorial Rd., Elmira, OR 97437",0,0,0
+-1,B0885L,885,EC Cares - South Lane SD Harrison Rm 270,1000 South 10th Street Cottage Grove Lane OR 97424,0,0,0
+-1,B0886L,886,EC Cares - Bob Keefer Center Classroom,"250 South 32nd St, Springfield, OR 97478",0,0,0
+-1,B0888L,888,EC Cares - Oakridge SD #76 Westfir,"46433 Westfir Rd, Westfir, OR 97492",0,0,0
+-1,B0890L,890,Vision Plaza,404 SW Columbia St Bend,0,0,0
+-1,B0891L,891,1199 South A Warehouse,1199 South A St,0,0,0
+-1,B0902,902,OIMB Terwilliger Research Bldg,"64812 Plankton Dr., Coos Bay, 97420",0,0,0
+-1,B0903,903,OIMB Rippey (Loyd and Dorothy) Library,"64818 Plankton Dr., Coos Bay, 97420",0,0,0
+-1,B0911,911,OIMB Maintenance Garage,"64832 Larva Ln., Coos Bay, OR. 97420",0,0,0
+-1,B0913,913,OIMB Graduate Student Residence,"64832 Larva Ln., Coos Bay, 97420",0,0,0
+-1,B0915,915,OIMB Recreation Hall,"64824 Benthos Dr., Coos Bay, 97420",0,0,0
+-1,B0918,918,OIMB Vehicle Storage,"64824 Benthos Dr., Coos Bay, 97420",0,0,0
+-1,B0921,921,OIMB Administration,"64818 Plankton Dr., Coos Bay, 97420",0,0,0
+-1,B0922,922,OIMB Auditorium/Boathouse,"63627 Boat Basin Rd., Coos Bay, 97420",0,0,0
+-1,B0924,924,OIMB Tyler (Alice) Lab/Aquarium,"64814 Plankton Dr., Coos Bay, 97420",0,0,0
+-1,B0927,927,OIMB Beach House,"63629 Boat Basin Road, Coos Bay, OR. 97420",0,0,0
+-1,B0929,929,OIMB Research Lab/Support,"64819 Plankton Dr., Coos Bay, 97420",0,0,0
+-1,B0930,930,OIMB Holding,"64825 Benthos Dr., Coos Bay, 97420",0,0,0
+-1,B0931,931,OIMB Gate House,"63625 Boat Basin Rd., Coos Bay, 97420",0,0,0
+-1,B0932,932,OIMB Cottage 1,"64827 Larva Lane, Coos Bay, 97420",0,0,0
+-1,B0933,933,OIMB Cottage 2,"64829 Larva Ln., Coos Bay, 97420",0,0,0
+-1,B0934,934,OIMB Cottage 3,"64831 Larva Ln., Coos Bay, 97420",0,0,0
+-1,B0935,935,OIMB Cottage 4,"64833 Larva Ln., Coos Bay, 97420",0,0,0
+-1,B0936,936,OIMB North Classroom/Dorm,"64823 Benthos Dr., Coos Bay, 97420",0,0,0
+-1,B0937,937,OIMB Dining Hall/Dorm,"64820 Benthos Dr., Coos Bay, 97420",0,0,0
+-1,B0938,938,OIMB Shop/Apartment,"64824 Benthos Dr., Coos Bay, 97420",0,0,0
+-1,B0939,939,OIMB Utility Lab,"64825 Benthos Dr., Coos Bay, 97420",0,0,0
+-1,B0940,940,OIMB Dock House,"63531 Boat Basin Dr, Charleston, 97420",0,0,0
+-1,B0941,941,OIMB South Classroom/Dorm,"64821 Plankton Dr., Coos Bay, 97420",0,0,0
+-1,B0942,942,OIMB Visiting Scientist Residence Bldg,"64822 Benthos Drive, Coos Bay, OR. 97420",0,0,0
+-1,B0943,943,OIMB Seafoam House + detached garage,"90311 Seafoam Ave., Coos Bay, OR. 97420",0,0,0
+-1,B0944,944,OIMB Seafoam Cottage,"90328 Seafoam Ave., Coos Bay, OR 97420",0,0,0
+-1,B0945,945,OIMB Seafoam Apartment,"90328 Seafoam Ave, Coos Bay, 97420",0,0,0
+-1,B0946,946,OIMB Seafoam Main Garage,"90311 Seafoam Ave., Coos Bay, OR. 97420",0,0,0
+-1,B0947,947,OIMB Seafoam Utility Shop,"90328 Seafoam Ave., Coos Bay, OR. 97420",0,0,0
+-1,B0948,948,OIMB Charleston Marine Life Center,"63531 Boat Basin Dr., Coos Bay, 97420",0,0,0
+-1,B0949,949,OIMB Research Lab 2,"64816 Plankton Dr., Coos Bay, 97420",0,0,0
+-1,B0950,950,OIMB Seawater Pump Station,"63629 Boat Basin Rd., Coos Bay, 97420",0,0,0
+-1,B0999G,999G,Gifted Warehouse Storage JSMA,"700 International Way, Springfield 97477",0,0,0
+-1,B0BLANL,BLAN,KWAX Transmitter Bldg Blanton Hts,"4545 Blanton Road, Eugene 97405",0,0,0
+-1,B0FLOL,FLO,KWAX Transmitter Building Florence,"Glenada Hill, Florence 97439",0,0,0
+-1,B0GRIZL,GRIZ,KWAX Grizzly Mtn Transmitter Bldg/Tower,"13700 N. Grizzly Mt. Rd., Prineville 97754",0,0,0
+-1,B0KWAXL,KWAX,KWAX Transmitter Building Bend,"Awbrey Butte, Bend 97701",0,0,0
+-1,B0KWVAL,KWVA,KWVA Transmitter Building Eugene,"650 Goodpasture Island Rd., Eug 97401",0,0,0
+-1,B0NPRTL,NPRT,KWAX Newport Transmitter Bldg & Tower,"Steenson Road, Newport 97365",0,0,0
+-1,B0OPBCL,OPBC,KWAX Transmitter Mtn Corvallis,"Vinyard Mtn. 03-11S-SW W. M., Corvallis, OR 97330",0,0,0
+-1,B0RSBGL,RSBG,KWAX Roseburg Transmitter Bldg & Tower,"900 Hutchins Drive, Roseburg 97471",0,0,0
+-1,B0SLML,SLM,KWAX Transmitter Building Salem,"7011 Skyline Rd., Salem 97306",0,0,0

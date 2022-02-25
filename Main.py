@@ -1,12 +1,10 @@
 from tkinter import Tk
 from tkinter import ttk;
 from helpers.LogHelpers import LogHelpers as log
-from model.api.Group import Group
 from presentation.MainForm import MainForm
 from presentation.GroupProcessForm import GroupProcessForm
 
 def main():
-    log.setConfiguration()
     showMainForm()
 
 def showMainForm():

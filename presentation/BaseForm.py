@@ -2,10 +2,12 @@ from abc import ABC, abstractmethod
 from tkinter import *
 from tkinter import ttk
 from pathlib import Path
-
+from helpers.LogHelpers import LogHelpers
 from presentation.FormStyles import FormStyles as fr
 class BaseForm(ABC):
     """description of class"""
+
+    defaultLogFile = 'appInfo'
 
     def __init__(self, window, formTitle):
         self.window = window
@@ -13,7 +15,21 @@ class BaseForm(ABC):
         self.window.geometry(fr.formSize)
         self.imageFolder = Path("images")
 
+        self.__useSandbox = True
+
         self.initializeForm()
+
+    def setLogFile(self, fileName):
+        if fileName:
+            self.__logFile = fileName
+        else:
+            self.__logFile = self.__logFile
+
+        LogHelpers.setConfiguration(self.__logFile)
+
+    def getUseSandBox(self):
+        return self.__useSandbox
+
 
     def initializeForm(self):
         self.createStyles()
@@ -54,6 +70,18 @@ class BaseForm(ABC):
                             font = ('arial', 12),
                             padding ='5 5',
                             foreground=fr.fontColor)
+
+        self.cboStyle=ttk.Style()
+        self.cboStyle.configure('My.TCombobox',
+                                width=100,
+                                font = ('arial', 12)
+                                )
+
+        self.chkBox = ttk.Style()
+        self.chkBox.configure('My.TCheckbutton', 
+                                font = ('arial', 12),
+                                padding ='5 5',
+                                foreground=fr.fontColor)
 
 
     def buildForm(self):
@@ -101,6 +129,17 @@ class BaseForm(ABC):
             self.opFrame2.columnconfigure(0, weight=1)
             self.opFrame2.rowconfigure(0,weight=1)
 
+            self.useSandbox = StringVar()
+            self.useSandbox.set('0')
+            self.sandBox = ttk.Checkbutton(self.opFrame1, 
+                                      text="Use the Sandbox",
+                                      command=self.sandBoxChanged,
+                                      variable=self.useSandbox,
+                                      onvalue='0',
+                                      offvalue='1',
+                                      style='My.TCheckbutton')
+            self.sandBox.grid(row=0, column=0, sticky=W)
+
         except Exception as ex:
             message = f'buildGrid: {str(ex)}'
             print(message)
@@ -108,3 +147,13 @@ class BaseForm(ABC):
     @abstractmethod
     def buildInput(self):
         pass
+       
+
+    def sandBoxChanged(self):
+        if self.useSandbox.get()== '0':
+            self.__useSandbox = True
+        elif self.useSandbox.get() == '1':
+            self.__useSandbox = False
+        else:
+           self.__useSandbox = True 
+

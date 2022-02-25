@@ -1,4 +1,4 @@
-from data.FileOperations import FileOperations
+from model.people.PeopleFileOperations import PeopleFileOperations as fileOps
 class PersonList(object):
     """Dictionary collection of people"""
 
@@ -8,7 +8,7 @@ class PersonList(object):
         self.readFile()
 
     def readFile(self):
-        FileOperations.openPeopleList(self.__personList, self.__filename)
+        fileOps.openPeopleList(self.__personList, self.__filename)
 
     def __str__(self):
         str = ""

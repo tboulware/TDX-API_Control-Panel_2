@@ -40,13 +40,64 @@
     <Compile Include="Main.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="model\api\APIMethods.py">
+    <Compile Include="model\departments\AccountAPI.py" />
+    <Compile Include="model\departments\DepartmentProcessing.py" />
+    <Compile Include="model\departments\Dept.py" />
+    <Compile Include="model\departments\DeptFileOperations.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="model\api\Group.py">
+    <Compile Include="model\departments\TDXDepartmentList.py" />
+    <Compile Include="model\departments\TridentDeptmentList.py" />
+    <Compile Include="model\departments\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\JSONRoomEncoder.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\LocationFileOps.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\LocationOperations.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\TDXLocationBannerIDTransform.py" />
+    <Compile Include="model\people\GroupAPI\GroupAPIMethods.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\people\GroupAPI\GroupAPIInfo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\people\GroupAPI\__init__.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="model\api\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\Address.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\Location.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\TDXLocationAPI.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\UOSpaceInformation.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\LocationProcessing.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\Room.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\locations\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\people\GroupInfo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="model\people\PeopleFileOperations.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="model\people\__init__.py">
@@ -64,16 +115,22 @@
     <Compile Include="model\people\PersonList.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="data\FileOperations.py">
+    <Compile Include="helpers\FileHelpers.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="presentation\BaseForm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="presentation\DepartmentProcessingForm.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="presentation\FormStyles.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="presentation\GroupProcessForm.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="presentation\LocationsProcessForm.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="presentation\MainForm.py">
@@ -88,6 +145,9 @@
     <Folder Include="helpers\" />
     <Folder Include="model\" />
     <Folder Include="model\api\" />
+    <Folder Include="model\departments\" />
+    <Folder Include="model\people\GroupAPI\" />
+    <Folder Include="model\locations\" />
     <Folder Include="model\people\" />
     <Folder Include="images\" />
     <Folder Include="presentation\" />

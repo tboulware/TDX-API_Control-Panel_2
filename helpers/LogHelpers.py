@@ -1,21 +1,27 @@
 import logging
+import os
+from helpers.StringHelpers import StringHelpers
+
 class LogHelpers(object):
     """description of class"""
 
-    __configuration = '%(asctime)s :: %(levelname)s :: %(message)s'
-    __fileName = 'app.log'
-    __mode = 'w'
-    __level = logging.DEBUG
-
-
+    format = '%(asctime)s :: %(levelname)s :: %(message)s'
+    fileName = 'appInfo.log'
+    mode = 'w'
+    level = 'INFO'
+    rootFolder = 'logfiles'
+  
     @classmethod
-    def setConfiguration(cls, filename='app.log', mode='w', level=logging.DEBUG):
-        cls.__fileName = filename
-        cls.__mode = mode
-        cls.__level = level
-        logging.basicConfig(filename = cls.__fileName , filemode=cls.__mode, format=cls.__configuration)
-        logging.level = cls.__level
-        print(f'{cls.__fileName} opened for logging')
+    def setConfiguration(cls, fileName=''):
+        timeStr = StringHelpers.getDateTime()
+        if fileName:
+            cls.fileName = fileName
+        logPath = os.getcwd() + '\\' + cls.rootFolder + '\\' + cls.fileName + '_' + timeStr + '.log'
+        logging.basicConfig(filename = logPath, 
+                            filemode= cls.mode, 
+                            format=cls.format, 
+                            level=logging.INFO)
+        print(f'{cls.fileName} opened for logging')
 
     @classmethod
     def critical(cls, message):
@@ -39,12 +45,18 @@ class LogHelpers(object):
 
     @classmethod
     def debug(cls, message):
-        print(message)
+        #print(message)
         logging.debug(message)
 
+    @classmethod
+    def displayHeader(cls, message):
+        print('\n' + message)
+        print('________________________________________________\n')
 
-    
+    @classmethod
+    def displayDetail(cls, message):
+        print(message)
 
-
-
-
+    @classmethod
+    def displaySeparator(cls):
+         print('________________________________________________')

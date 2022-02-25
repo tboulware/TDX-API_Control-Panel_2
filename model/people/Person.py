@@ -11,7 +11,7 @@ class Person(object):
         self.__UID = ''
 
     def __str__(self):
-        return f'{self.getFullName()}, duckID: {self.__duckID }, email: {self.__email}'
+        return f'{self.__name}, duckID: {self.__duckID }, email: {self.__email}'
 
     def setUserName(self, value):
          self.__userName = value
@@ -32,10 +32,15 @@ class Person(object):
         return self.__name.split(", ")[0]
 
     def getFullName(self):
-        names = self.__name.split(", ")
-        last = names[0]
-        first = names[1].split()[0]
-        return first + ' ' + last
+        try:
+            names = self.__name.split(", ")
+            last = names[0]
+            first = names[1].split()[0]
+            return first + ' ' + last
+        except Exception as ex:
+            return self.__name
+
+       
 
     def setEmail(self, value):
          self.__email = value

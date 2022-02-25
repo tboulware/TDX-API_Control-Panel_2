@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import ttk
+
 class FormStyles:
         formSize = "800x300"
         frameW = 800
@@ -17,5 +18,8 @@ class FormStyles:
         directionWidth = 100
 
         frameBackground='green'
+
+        listboxSize = "400x150"
+        listboxWidth = 50
 
        

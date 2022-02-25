@@ -1,0 +1,228 @@
+Code: 573 Name: A S U O, ID: 51771, Is Active: True
+Code: 174 Name: Academic Advising, Office of, ID: 51772, Is Active: True
+Code: 178 Name: Accessible Education Center, ID: 51774, Is Active: True
+Code: 193 Name: Admissions, ID: 51775, Is Active: True
+Code: 199 Name: Affirmative Action, ID: 51776, Is Active: True
+Code: 7 Name: American English Institute, ID: 51777, Is Active: True
+Code: 200 Name: Anthropology, ID: 51779, Is Active: True
+Code: 6333 Name: Applied Second Lang St, ID: 51780, Is Active: True
+Code: 20618 Name: Aquatic Animal Care Services, ID: 51781, Is Active: True
+Code: 201 Name: Architecture, ID: 51782, Is Active: True
+Code: 75 Name: Art Department, ID: 51785, Is Active: True
+Code: 20 Name: Asian Studies, ID: 51787, Is Active: True
+Code:  Name: AUTH-ONLY, ID: 56182, Is Active: True
+Code: 12844 Name: Behavioral Research, ID: 51788, Is Active: True
+Code: 208 Name: Biology Department, ID: 51789, Is Active: True
+Code: 20622 Name: Board of Trustees, ID: 51790, Is Active: True
+Code: 1188 Name: Budget and Resource Planning, ID: 51791, Is Active: True
+Code: 222 Name: Business Affairs Office, ID: 51792, Is Active: True
+Code: 25 Name: Business, Lundquist College of, ID: 51793, Is Active: True
+Code: 33 Name: C D R C, ID: 51794, Is Active: True
+Code: 20422 Name: CAMCOR, ID: 51795, Is Active: True
+Code: 530 Name: Campus Copy Center, ID: 51800, Is Active: True
+Code: 386 Name: Campus Planning and Facilities Management, ID: 55843, Is Active: True
+Code: 20591 Name: CASIT, ID: 51796, Is Active: True
+Code: 863 Name: Center for Advanced Technology In Education, ID: 51804, Is Active: True
+Code: 575 Name: Center for Asian and Pacific Studies, ID: 51805, Is Active: True
+Code: 20626 Name: Center for Assessment, Statistics & Evaluation, ID: 51806, Is Active: True
+Code: 686 Name: Center for Housing Innovation, ID: 51807, Is Active: True
+Code: 20549 Name: Center for Intercultural Dialogue and Peace, ID: 51808, Is Active: True
+Code: 20584 Name: Center for Latino/a & Latin American Studies, ID: 51809, Is Active: True
+Code: 35 Name: Center for Multicultural Academic Excellence, ID: 51810, Is Active: True
+Code: 541 Name: Center for the Study of Women in Society, ID: 51811, Is Active: True
+Code: 20671 Name: Center for Translational Neuroscience, ID: 81523, Is Active: True
+Code: 20619 Name: Center on Brain Injury Research and Training, ID: 51812, Is Active: True
+Code: 20418 Name: Center on Teaching and Learning, ID: 51813, Is Active: True
+Code: 63 Name: CEPM, ID: 51797, Is Active: True
+Code: 250 Name: Chemistry and Biochemistry, ID: 51814, Is Active: True
+Code: 256 Name: Classics, ID: 51816, Is Active: True
+Code: 20621 Name: COACh, ID: 51798, Is Active: True
+Code: 19671 Name: CODAC, ID: 51799, Is Active: True
+Code: 257 Name: Cognitive and Decision Sciences, ID: 51817, Is Active: True
+Code: 1 Name: College of Arts and Sciences, ID: 51818, Is Active: True
+Code: 3 Name: College of Design, ID: 55844, Is Active: True
+Code: 20553 Name: College of Design, Portland, ID: 51783, Is Active: True
+Code: 12425 Name: Communication Disorders and Sciences, ID: 51819, Is Active: True
+Code: 259 Name: Comparative Literature Department, ID: 51821, Is Active: True
+Code: 41 Name: Comparative Literature Journal, ID: 51822, Is Active: True
+Code: 754 Name: Computational Intelligence Research Laboratory (CIRL), ID: 51823, Is Active: True
+Code: 1685 Name: Computational Science, ID: 51824, Is Active: True
+Code: 260 Name: Computer and Information Science, ID: 51825, Is Active: True
+Code: 149 Name: Continuing and Professional Education, ID: 51773, Is Active: True
+Code: 262 Name: Counseling Psychology, ID: 51827, Is Active: True
+Code: 10784 Name: Counseling Psychology and Human Services, ID: 51828, Is Active: True
+Code: 12630 Name: Couples and Family Therapy Program, ID: 51830, Is Active: True
+Code: 806 Name: Creative Writing Program, ID: 51831, Is Active: True
+Code: 264 Name: Dance Department, ID: 51832, Is Active: True
+Code: 443 Name: Dean of Students, Office of the, ID: 51833, Is Active: True
+Code: 20585 Name: Department of Cinema Studies, ID: 59027, Is Active: True
+Code: 341 Name: Division of Global Engagement, ID: 51893, Is Active: True
+Code: 10809 Name: Division of Student Life, ID: 51835, Is Active: True
+Code: 10881 Name: Early Childhood Research, ID: 51836, Is Active: True
+Code: 424 Name: Early Intervention, ID: 51837, Is Active: True
+Code: 282 Name: Earth Sciences, ID: 51838, Is Active: True
+Code: 66 Name: East Asian Languages, ID: 51839, Is Active: True
+Code: 266 Name: Economics, ID: 51840, Is Active: True
+Code: 426 Name: Ed Early Childhood CARES, ID: 51841, Is Active: True
+Code: 267 Name: Education, ID: 51842, Is Active: True
+Code: 12607 Name: Education Studies, ID: 51843, Is Active: True
+Code: 430 Name: Educational and Community Supports, ID: 51846, Is Active: True
+Code: 42 Name: Educational Methodology, Policy, and Leadership, ID: 51844, Is Active: True
+Code: 14483 Name: Educational Policy Research, ID: 51845, Is Active: True
+Code: 1131 Name: Electronic Studying, ID: 51847, Is Active: True
+Code: 98 Name: Emerald Media Group, ID: 51848, Is Active: True
+Code: 20580 Name: Emergency Management & Continuity, ID: 51849, Is Active: True
+Code: 70 Name: English Department, ID: 51850, Is Active: True
+Code: 269 Name: Environmental Health and Safety, ID: 51851, Is Active: True
+Code: 273 Name: Environmental Studies, ID: 51852, Is Active: True
+Code: 52 Name: Erb Memorial Union, ID: 51853, Is Active: True
+Code: 20406 Name: Family and Human Services, ID: 51855, Is Active: True
+Code: 192 Name: Finance & Administration, ID: 51856, Is Active: True
+Code: 20665 Name: Finance & Administration Shared Services, ID: 59388, Is Active: True
+Code: 459 Name: Financial Aid and Scholarships, ID: 51857, Is Active: True
+Code: 12816 Name: First-Year Interest Group (FIG) Program, First-Year Programs, ID: 51858, Is Active: True
+Code: 20537 Name: Folklore Program, ID: 51859, Is Active: True
+Code: 20574 Name: General Counsel, Office of, ID: 51861, Is Active: True
+Code: 279 Name: General Science Program, ID: 51862, Is Active: True
+Code: 20652 Name: General Social Sciences, ID: 64302, Is Active: True
+Code: 20648 Name: Genomics and Cell Characterization Core Facility (GC3F), ID: 51863, Is Active: True
+Code: 281 Name: Geography, ID: 51864, Is Active: True
+Code: 77 Name: German & Scandinavian, ID: 51865, Is Active: True
+Code: 20608 Name: Global and Online Education, ID: 51867, Is Active: True
+Code: 19776 Name: Global Education Oregon (GEO), ID: 51866, Is Active: True
+Code: 20662 Name: Global Studies Institute, ID: 61481, Is Active: True
+Code: 20538 Name: Government Affairs, State and Community Affairs, ID: 51868, Is Active: True
+Code: 284 Name: Graduate School, ID: 51870, Is Active: True
+Code: 211 Name: Greenhouses, ID: 51871, Is Active: True
+Code: 20570 Name: HEDCO Clinic, ID: 51872, Is Active: True
+Code: 86 Name: High School Equivalency Program, ID: 51874, Is Active: True
+Code: 20555 Name: Histology and Genetic Modification (HGeM), ID: 51875, Is Active: True
+Code: 5 Name: Historic Preservation, ID: 51876, Is Active: True
+Code: 286 Name: History, ID: 51877, Is Active: True
+Code: 203 Name: History of Art and Architecture, ID: 51878, Is Active: True
+Code: 1872 Name: Holden Center for Leadership and Community Engagement, ID: 51978, Is Active: True
+Code: 34 Name: Human Development, ID: 51879, Is Active: True
+Code: 672 Name: Human Physiology, ID: 51880, Is Active: True
+Code: 291 Name: Human Resources, ID: 51881, Is Active: True
+Code: 204 Name: Humanities Program, ID: 51882, Is Active: True
+Code: 1378 Name: IDEA, ID: 51883, Is Active: True
+Code: 277 Name: Indigenous, Race, and Ethnic Studies, ID: 51854, Is Active: True
+Code: 511 Name: Information Services, ID: 51884, Is Active: True
+Code: 20627 Name: Innovation Partnership Services, ID: 51885, Is Active: True
+Code: 20673 Name: Institute for Fundamental Science, ID: 81891, Is Active: True
+Code: 17139 Name: Institute of Ecology and Evolution, ID: 51888, Is Active: True
+Code: 305 Name: Institute of Molecular Biology, ID: 51889, Is Active: True
+Code: 801 Name: Institute Sustainable Environment, ID: 51886, Is Active: True
+Code: 20547 Name: Institutional Research, ID: 51890, Is Active: True
+Code: 336 Name: Intercollegiate Athletics, ID: 51891, Is Active: True
+Code: 20640 Name: Internal Audit, Office of, ID: 51892, Is Active: True
+Code: 344 Name: International Studies, ID: 51894, Is Active: True
+Code: 2392 Name: intoCareers, ID: 51997, Is Active: True
+Code: 20668 Name: Investigations & Civil Rights Compliance, Office of, ID: 69401, Is Active: True
+Code: 372 Name: Jordan Schnitzer Museum of Art, ID: 51895, Is Active: True
+Code: 346 Name: Journalism and Communication, ID: 51896, Is Active: True
+Code: 6932 Name: Judaic Studies Program, ID: 51897, Is Active: True
+Code: 20659 Name: Knight Campus for Accelerating Scientific Impact, ID: 51898, Is Active: True
+Code: 20609 Name: Knight Campus Internship Program, ID: 61476, Is Active: True
+Code: 94 Name: Labor Education and Research Center, ID: 51899, Is Active: True
+Code: 350 Name: Landscape Architecture, ID: 51900, Is Active: True
+Code: 353 Name: Law School, ID: 51901, Is Active: True
+Code: 551 Name: Legal Services, ID: 51902, Is Active: True
+Code: 2278 Name: Lewis Center for Neuroimaging, ID: 51903, Is Active: True
+Code: 362 Name: Linguistics, ID: 51904, Is Active: True
+Code: 363 Name: Materials Science Institute, ID: 51905, Is Active: True
+Code: 364 Name: Mathematics, ID: 51906, Is Active: True
+Code: 8221 Name: Middle Secondary Educ Program, ID: 51907, Is Active: True
+Code: 370 Name: Military Science, ID: 51908, Is Active: True
+Code: 376 Name: Museum of Natural and Cultural History, ID: 51909, Is Active: True
+Code: 382 Name: Music, ID: 51910, Is Active: True
+Code: 18464 Name: NeuroInformatics Center, ID: 51911, Is Active: True
+Code: 324 Name: Neuroscience, ID: 51912, Is Active: True
+Code: 20534 Name: Northwest Indian Language Institute (NILI), ID: 51913, Is Active: True
+Code: 10774 Name: OCIAS, ID: 51914, Is Active: True
+Code: 415 Name: Office for Research and Innovation, ID: 51915, Is Active: True
+Code: 190 Name: Office of the Provost, ID: 51941, Is Active: True
+Code: 20655 Name: Ombuds Program, ID: 51916, Is Active: True
+Code: 14459 Name: Orbis Cascade Alliance, ID: 51917, Is Active: True
+Code: 20669 Name: Oregon Advanced Computing Institute for Science and Society (OACISS), ID: 97787, Is Active: True
+Code: 118 Name: Oregon Bach Festival, ID: 51918, Is Active: True
+Code: 241 Name: Oregon Career Information System, ID: 51919, Is Active: True
+Code: 2711 Name: Oregon Center for Optical, Molecular, and Quantum Science, ID: 51920, Is Active: True
+Code: 32 Name: Oregon Executive MBA, ID: 51921, Is Active: True
+Code: 287 Name: Oregon Humanities Center, ID: 51922, Is Active: True
+Code: 214 Name: Oregon Institute of Marine Biology, ID: 51923, Is Active: True
+Code: 110 Name: Oregon University System, ID: 51924, Is Active: True
+Code: 725 Name: Orientation Programs, ID: 51925, Is Active: True
+Code: 20405 Name: Osher Lifelong Learning (Central Oregon), ID: 51926, Is Active: True
+Code: 124 Name: P P P M, ID: 51927, Is Active: True
+Code: 233 Name: Payroll Office, ID: 51930, Is Active: True
+Code: 384 Name: Philosophy Department, ID: 51931, Is Active: True
+Code: 698 Name: Physical Education and Recreation, ID: 51932, Is Active: True
+Code: 390 Name: Physics Department, ID: 51933, Is Active: True
+Code: 409 Name: Police Department, ID: 51934, Is Active: True
+Code: 612 Name: Policy Research and Engagement, Institute for, ID: 51820, Is Active: True
+Code: 392 Name: Political Science, ID: 51935, Is Active: True
+Code: 400 Name: PORTLAND, University of Oregon in, ID: 51928, Is Active: True
+Code: 393 Name: President's Office, ID: 51936, Is Active: True
+Code: 20664 Name: Prevention Science, ID: 79256, Is Active: True
+Code: 20634 Name: Prevention Science Institute, ID: 51937, Is Active: True
+Code: 535 Name: Print Services, ID: 51938, Is Active: True
+Code: 20551 Name: Product Design, ID: 51939, Is Active: True
+Code: 1130 Name: Proficiency-based Admission Standards Study, ID: 51940, Is Active: True
+Code: 398 Name: Psychology Department, ID: 51942, Is Active: True
+Code:  Name: Public, ID: 49662, Is Active: True
+Code: 20586 Name: Public Records Office, ID: 51943, Is Active: True
+Code: 236 Name: Purchasing and Contracting Services, ID: 51944, Is Active: True
+Code: 411 Name: Registrar, Office of the, ID: 51945, Is Active: True
+Code: 895 Name: Religious Director Association, ID: 51946, Is Active: True
+Code: 414 Name: Religious Studies, ID: 51947, Is Active: True
+Code: 20615 Name: Research and Innovation Services, ID: 51954, Is Active: True
+Code: 20510 Name: Research Compliance Services, ID: 51948, Is Active: True
+Code: 20638 Name: Research Core Business Services, ID: 51949, Is Active: True
+Code: 3274 Name: Research Development Services, ID: 51950, Is Active: True
+Code: 20613 Name: Research Finance & Business Administration, ID: 51951, Is Active: True
+Code: 20663 Name: Research High Performance Computing Facility, ID: 51952, Is Active: True
+Code: 20637 Name: Research Technology Services, ID: 51953, Is Active: True
+Code: 20666 Name: Retirement Plans Management, ID: 59354, Is Active: True
+Code: 20582 Name: Risk Management & Insurance, ID: 51955, Is Active: True
+Code: 20407 Name: Robert Donald Clark Honors College, ID: 51956, Is Active: True
+Code: 131 Name: Romance Languages, ID: 51957, Is Active: True
+Code: 20508 Name: Russian and East European Studies, ID: 51958, Is Active: True
+Code: 20602 Name: Safety & Risk Services, ID: 51959, Is Active: True
+Code: 619 Name: School Psychology, ID: 51960, Is Active: True
+Code: 627 Name: Secondary Special Education & Transition Programs, ID: 51961, Is Active: True
+Code: 177 Name: Services for Student Athletes, ID: 51962, Is Active: True
+Code: 812 Name: Social Science Instructional Laboratory, ID: 51963, Is Active: True
+Code: 422 Name: Sociology, ID: 51964, Is Active: True
+Code: 470 Name: Special Education and Clinical Sciences, ID: 51965, Is Active: True
+Code: 1887 Name: Sponsored Projects Services, ID: 51966, Is Active: True
+Code: 20560 Name: Student Services and Enrollment Management, ID: 51967, Is Active: True
+Code:  Name: Students, ID: 49638, Is Active: True
+Code: 713 Name: Substance Abuse Prevention Program, ID: 51968, Is Active: True
+Code: 155 Name: Summer Session, ID: 51969, Is Active: True
+Code: 20593 Name: Sustainable Cities Initiative, ID: 51971, Is Active: True
+Code: 6405 Name: Teaching Research-Eugene, ID: 51972, Is Active: True
+Code: 173 Name: Tech Assist And Consult Svs/WRRC, ID: 51974, Is Active: True
+Code: 140 Name: Technical Science Administration (TSA), ID: 51975, Is Active: True
+Code: 1924 Name: Terrestrial Animal Care Services, ID: 51778, Is Active: True
+Code: 20419 Name: The Center at Oregon for Research in Education, ID: 51976, Is Active: True
+Code: 145 Name: The Duck Store, ID: 51977, Is Active: True
+Code: 435 Name: Theatre Arts, ID: 51979, Is Active: True
+Code: 20616 Name: Transportation Services, ID: 51929, Is Active: True
+Code: 572 Name: Tutoring and Academic Engagement Center, ID: 51973, Is Active: True
+Code: 20670 Name: Tykeson College and Career Advising, ID: 79230, Is Active: True
+Code: 158 Name: U O Foundation, ID: 51980, Is Active: True
+Code: 13718 Name: Undergraduate Education and Student Success, ID: 86000, Is Active: True
+Code: 693 Name: University Advancement, ID: 51983, Is Active: True
+Code: 243 Name: University Career Center, ID: 51803, Is Active: True
+Code: 20649 Name: University Communications, ID: 51984, Is Active: True
+Code: 515 Name: University Counseling Center, ID: 51829, Is Active: True
+Code: 462 Name: University Health Center, ID: 51985, Is Active: True
+Code: 520 Name: University Housing, ID: 51986, Is Active: True
+Code:  Name: University of Oregon, ID: 47019, Is Active: True
+Code: 20660 Name: University of Oregon Senate, ID: 51987, Is Active: True
+Code: 514 Name: University Testing Center, ID: 62616, Is Active: True
+Code: 17515 Name: UO Libraries, ID: 51981, Is Active: True
+Code: 1105 Name: Violence And Destructive Behavior, ID: 51990, Is Active: True
+Code: 1957 Name: Vivian Olum Child Development Center, ID: 51991, Is Active: True
+Code: 20541 Name: VP for Equity and Inclusion, ID: 51989, Is Active: True
